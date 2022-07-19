@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Edu+SA+Beginner&family=Ibarra+Real+Nova:ital@1&display=swap');
+
 .Splash{
   text-align: center;
   height: 40vh;
@@ -13,10 +15,21 @@
 }
 
 .Splash .primary {
-	font-size: 4rem;
+	font-size: rem;
 	padding-top: 12vh;
 }
 
 .Splash .secondary {
-	font-size: 2rem;
+	font-size: 3rem;
 } 
+.Splash{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Cormorant SC', serif;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    text-align: center;
+    
+
+
+}
+ 

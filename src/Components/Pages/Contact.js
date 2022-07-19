@@ -16,29 +16,29 @@ const Contact = ({title,imageUrl,body}) => {
       <h1>Contact Us</h1>
       </div> </div>
       <div className="container" >
-          <h3 class="centertext">12th grade</h3>
-        <ul className="cards"class ="gradedivide"
+          <h3 className="centertext">12th grade</h3>
+        <ul className="cards"className ="gradedivide"
       ><Teacherinfo
           imageUrl='Image for each teacher'
           title ='Mr. Dominguez'
           body='Teacher for Computer Science and the City'
-          email ='Email: jdominguez@richmondhillhs.org '
+          email ='? '
           />
       </ul>
-      <h3 class="centertext">11th grade</h3>
+      <h3 className="centertext">11th grade</h3>
       <ul className="cards"class ="gradedivide">
         <Teacherinfo
           imageUrl='../../images/Canzoneri.jpg'
           title ='Mr. Canzoneri'
           body='Teacher for AP Computer Science Principles'
-          email ='Email: rcanzoneri@richmondhillhs.org'
+          email ='?'
           />
       </ul>
           <h3 class="centertext">10th grade</h3>
       <ul className="cards"class ="gradedivide">
         <Teacherinfo
           imageUrl='Image for each teacher'
-          title ='Mr. Joseph'
+          title ='Ms. Pak'
           body='Teacher for Exploring Computer Science'
           email ='?'
           />

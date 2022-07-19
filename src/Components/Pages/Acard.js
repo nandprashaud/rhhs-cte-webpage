@@ -14,7 +14,4 @@ function Acard(props) {
             </div>
         );
     };          
-            
-
-
 export default Acard; 

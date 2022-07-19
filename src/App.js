@@ -14,17 +14,16 @@ function App() {
   return (
     <Router>
       <Navbar />
-      <Switch>
-        <Route path='/' exact component={Home} />
-        <Route path='/home' component={Home} />
+      <Switch>  
+        <Route path='/' exact component={Home} /  >
+        <Route path='/home' component={Home} />  
         <Route path='/sep-academy' component={Sepacademy} />
         <Route path='/student-achievement' component={Achievement} />
         <Route path='/contact-us' component={Contact} />
-      </Switch>
-    </Router>
+      </Switch>  
+    </Router>  
 // Each of those elements which aren't really HTML are actually components of their own, 
-// which will also return their own HTML.
-  );
-}
-
+// which will also return their own HTML.  
+  );  
+}  
 export default App;
