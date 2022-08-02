@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Edu+SA+Beginner&family=Ibarra+Real+Nova:ital@1&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital@1&display=swap');
 .Splash{
   text-align: center;
   height: 40vh;
@@ -12,6 +12,8 @@
 .Splash .text {
 	color: white;
 	font-weight: 600;
+    font-family: 'Ibarra Real Nova', serif;
+
 }
 
 .Splash .primary {

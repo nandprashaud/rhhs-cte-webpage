@@ -22,7 +22,7 @@ const Contact = ({title,imageUrl,body}) => {
           imageUrl='Image for each teacher'
           title ='Mr. Dominguez'
           body='Teacher for Computer Science and the City'
-          email ='? '
+          email ='jdominguez@richmondhillhs.org '
           />
       </ul>
       <h3 className="centertext">11th grade</h3>
@@ -31,7 +31,7 @@ const Contact = ({title,imageUrl,body}) => {
           imageUrl='../../images/Canzoneri.jpg'
           title ='Mr. Canzoneri'
           body='Teacher for AP Computer Science Principles'
-          email ='?'
+          email ='rcanzoneri@richmondhillhs.org'
           />
       </ul>
           <h3 class="centertext">10th grade</h3>
@@ -40,7 +40,7 @@ const Contact = ({title,imageUrl,body}) => {
           imageUrl='Image for each teacher'
           title ='Ms. Pak'
           body='Teacher for Exploring Computer Science'
-          email ='?'
+          email ='spak@richmondhillhs.org'
           />
 
       </ul>
@@ -50,7 +50,7 @@ const Contact = ({title,imageUrl,body}) => {
           imageUrl='Image for each teacher'
           title ='Ms. Pak'
           body='Teacher for TEALS Intro to Computer Science'
-          email ='?'
+          email ='spak@richmondhillhs.org'
           />
       </ul>
       </div>
