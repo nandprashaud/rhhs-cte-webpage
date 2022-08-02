@@ -1,4 +1,24 @@
+@import url('https://font.google.com/css2?family=Lato&display=swap');
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.home, .reports, .products {
+    display:flex;
+    height: 90vh;
+    align-items:center;
+    justify-content:center;
+    font-size: 3rem;
+
+}
+#p3{
+text-align: center;
+}
 .card-container{
 width: 1300px;
 overflow: hidden;
@@ -9,6 +29,7 @@ margin: 0.5rem;
 margin-top: 1.8rem;
 color: maroon;
 font-size: 1.5em;
+
 }
 
 
