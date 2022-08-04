@@ -1,8 +1,6 @@
 
 import React from 'react';
 import Acard from './Acard'
-
-
 const Achievement = () => {
   return (
      <div className="about-sa">
@@ -24,7 +22,6 @@ const Achievement = () => {
   )
   }
 export default Achievement;
-
 /*
 <a href="https://scratch.mit.edu/projects/11710850/" class="btn btn-primary">Maze</a> 
     <a href="https://scratch.mit.edu/projects/40065008/" class="btn btn-primary">Dodgeball</a>

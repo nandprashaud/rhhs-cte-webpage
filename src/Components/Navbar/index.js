@@ -13,17 +13,21 @@ const Navbartop = () => {
         </NavLink>
         <NavMenu>
         <NavLink to='/home' activeStyle>
-          Home
+        Home
         </NavLink>
           <NavLink to='/sep-academy' activeStyle>
-            SEP Academy
+        SEP Academy
           </NavLink>
           <NavLink to='/student-achievement' activeStyle>
-            Student Achievement
+        Student Achievement
+          </NavLink>
+          <NavLink to='/skills-required' activeStyle>
+        Skills Required
           </NavLink>
           <NavLink to='/contact-us' activeStyle>
-            Contact Us
+        Contact Us
           </NavLink>
+
         </NavMenu>
       </Nav>
     </>
