@@ -29,9 +29,9 @@ const Contact = ({title,imageUrl,body}) => {
       <ul className="cards"class ="gradedivide">
         <Teacherinfo
           imageUrl='../../images/Canzoneri.jpg'
-          title ='Mr. Canzoneri'
+          title ='Ms.Pak'
           body='Teacher for AP Computer Science Principles'
-          email ='rcanzoneri@richmondhillhs.org'
+          email ='spak@richmondhillhs.org'
           />
       </ul>
           <h3 class="centertext">10th grade</h3>

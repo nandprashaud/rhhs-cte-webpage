@@ -253,7 +253,7 @@ function SkillsRequired() {
             <div className="hard-skill-cards"  id= "card-2">
                 <div className="card">
                     <img
-                        src="https://media-exp1.licdn.com/dms/image/C5612AQHMIRehTvRcHg/article-cover_image-shrink_600_2000/0/1520150075767?e=1659571200&v=beta&t=g2fGi_-J5bRH-MoF6exdGvTwl3gUTlAMrSi6hknapvY"
+                        src="https://media-exp1.licdn.com/dms/image/C5612AQHMIRehTvRcHg/article-cover_image-shrink_600_2000/0/1520150075767?e=1663200000&v=beta&t=O2Ou9uJEz8-R0OXA_YMLja0M2Y8g9TfjQWuQkDZFohw"
                         className="card-img-top"
                         alt="Technical writing"
                     />
